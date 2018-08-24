@@ -1,0 +1,12 @@
+{
+  "name": "nodemon-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "prestart": "mkdir -p dir && touch dir/index.js",
+    "start": "nodemon --watch dir dir/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
