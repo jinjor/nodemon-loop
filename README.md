@@ -54,4 +54,3 @@ Please correct me if something is wrong.
 - https://github.com/remy/nodemon/issues/933
 - https://github.com/remy/nodemon/issues/996
 - https://stackoverflow.com/questions/42318030/nodemon-recursive-watch-issue
-- 
