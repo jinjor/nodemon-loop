@@ -47,3 +47,11 @@ So maybe you want to generate `dir/index.js"` by using tsc, webpack or something
 ```
 
 Please correct me if something is wrong.
+
+
+## Ref
+
+- https://github.com/remy/nodemon/issues/933
+- https://github.com/remy/nodemon/issues/996
+- https://stackoverflow.com/questions/42318030/nodemon-recursive-watch-issue
+- 
